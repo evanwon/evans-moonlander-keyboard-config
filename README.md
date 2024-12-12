@@ -1,7 +1,7 @@
 # evans-moonlander-keyboard-config
-This repository contains the custom layout and configurations I use with my ZSA Moonlander keyboard. It's pretty awesome and I use it every day.
+This repository contains the custom keyboard layout and configurations I use with my [ZSA Moonlander keyboard](https://www.zsa.io/moonlander). It's pretty awesome (both the keyboard and the layout) and I use it every day for both work and gaming.
 
-[This layout is also available on Oryx](https://configure.zsa.io/moonlander/layouts/wwgZ3/latest/0) - which is the primary source of truth - so this GitHub repo is more of a failsafe.
+If you're interested in using this layout (or just want to view its layout/mappings/etc.), check it out on [Oryx](https://configure.zsa.io/moonlander/layouts/wwgZ3/latest/0) -- Oryx is the primary source of truth, has a lovely GUI editor, and you can flash your keyboard directly from your Chromium-based browser (or the [Keymapp native desktop app](https://www.zsa.io/flash)). This GitHub repo is more of a failsafe.
 
 # Boilerplate guidance from the folks at ZSA (not me)
 
